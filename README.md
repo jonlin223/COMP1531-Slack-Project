@@ -1,6 +1,15 @@
 # COMP1531 Major Project
 
-A video describing this project and the background here can be found here.
+This repository contains the major project for UNSW's COMP1531 (Software Engineering Fundamentals). The aim of this project is to create a Slack clone.
+
+The members of this group are:
+ - Jonathan Lin
+ - Callum Jones
+ - Jason Lin
+ - Xin Liu
+ - Nguyen Hoang
+
+The project was originally hosted [here](https://gitlab.cse.unsw.edu.au/COMP1531/20T1/W15A-Hayden_Smith_Appreciation_Society).
 
 ## Aims:
 
